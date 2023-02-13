@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1673984327 source:c:\users\florin1\desktop\teme\definitelynottetris\main.cpp
+	<iostream>
+	<graphics.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<cstdlib>
+	<windows.h>
+	<Mmsystem.h>
+
+1676282921 source:c:\users\florin1\desktop\teme\almosttetris\main.cpp
+	<iostream>
+	<graphics.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<cstdlib>
+	<windows.h>
+	<Mmsystem.h>
+
